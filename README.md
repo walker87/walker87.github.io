@@ -1,8 +1,16 @@
 ## Welcome
 
-You can use the [editor on GitHub](https://github.com/walker87/walker87.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Richard is a Technical Author with experience working in soft-ware, hardware, manufacturing and clinical environments.  He has written everything from simple Warranty Statements to Clini-cal Applications for FDA submission.  Richard began working for Totalmobile in August 2017 and makes up the other half of the Technical Communications team alongside the Technical Trainer.  Richard is responsible for the delivery of concise and accurate product help information via Totalmobile’s online help website, To-talacademy.    
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Totalacademy contains all the information customers need to use Mobilise, Optimise, Analyse and NotifyMe software.  Customers can find instructions in topics, which provide step by step explana-tions of how to perform administrative or device-based tasks. Topics include a mix of instructions, videos, diagrams and linked content to explain how things work.
+
+Richard holds a BA (hons) degree in Information Communication Technologies from the University of Ulster. He is also a Microsoft Certified IT Professional; Technology Specialist; Solutions Associ-ate, Certified XML Master and a Certified MadCap Flare Ad-vanced Developer.
+
+Richard is currently learning how REST APIs work and working towards a certification in Swagger.
+
+Richard is a Microsoft Certified Professional Community member and Institute of Scientific and Technical Communicators member.
+
+When Richard isn’t authoring technical documents, he enjoys do-ing Judo and keeping fit, growing his own vegetables and garden-ing, travelling, eating sushi and reading Stephen King novels. 
 
 ### Markdown
 
