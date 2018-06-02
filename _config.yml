@@ -2,10 +2,3 @@ theme: jekyll-theme-minimal
 title: Richard Walker
 logo: walker87.github.io/images/R&W-64.jpg
 description: Contact Details      Email walker.r87@googlemail.com       Mob 07841636265
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
