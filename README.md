@@ -1,3 +1,5 @@
+## Introduction
+
 Richard is a Technical Author with experience working in software, hardware, manufacturing and clinical environments.  He has written everything from simple Warranty Statements to Clinical Applications for FDA submission.  Richard began working for Totalmobile in August 2017 and makes up the other half of the Technical Communications team alongside the Technical Trainer.  Richard is responsible for the delivery of concise and accurate product help information via Totalmobile’s online help website, Totalacademy.    
 
 Totalacademy contains all the information customers need to use Mobilise, Optimise, Analyse and NotifyMe software.  Customers can find instructions in topics, which provide step by step explanations of how to perform administrative or device based tasks. Topics include a mix of instructions, videos, diagrams and linked content to explain how things work.
@@ -10,9 +12,16 @@ Richard is a Microsoft Certified Professional Community member and Institute of 
 
 When Richard isn’t authoring technical documents, he enjoys keeping fit, growing his own vegetables and gardening, travelling, eating sushi and reading Stephen King novels. 
 
-### Expertise
+## Expertise
 
 Richard is skilled in:
+
+- Markup Languages: HTML, XML, CSS, Dita, Markdown, JSON
+- Authoring & Publishing Software: Madcap Flare, Adobe Technical Communications Suite, Dita Open Toolkit 
+- Code Respositories & Version Control Sofwtare: GitHub, Microsoft Team Foundation Server
+- API Software: Swagger, Postman
+- Editors: Oxygen, Notepad ++
+
 
 ```markdown
 Syntax highlighted code block
