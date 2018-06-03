@@ -1,10 +1,14 @@
-## Introduction
+## Contact Details
+- Email: walker.r87@googlemail.com
+- Mobile: 07841636265
 
-Richard is a Technical Author with experience working in software, hardware, manufacturing and clinical environments.  He has written everything from simple Warranty Statements to Clinical Applications for FDA submission.  Richard began working for Totalmobile in August 2017 and makes up the other half of the Technical Communications team alongside the Technical Trainer.  Richard is responsible for the delivery of concise and accurate product help information via Totalmobile’s online help website, Totalacademy.    
+## Professional Summary
 
-Totalacademy contains all the information customers need to use Mobilise, Optimise, Analyse and NotifyMe software.  Customers can find instructions in topics, which provide step by step explanations of how to perform administrative or device based tasks. Topics include a mix of instructions, videos, diagrams and linked content to explain how things work.
+I am a Technical Author with five years experience working in software, hardware, manufacturing and clinical environments.  I have written everything from how to use software to clinical applications for FDA submission.  In addition, I have published deliverables for online/print formats and have experience documenting Restful APIs.  
 
-Richard holds a BA (hons) degree in Information Communication Technologies from the University of Ulster. He is also a Microsoft Certified IT Professional; Technology Specialist; Solutions Associ-ate, Certified XML Master and a Certified MadCap Flare Advanced Developer.
+In my current employment at a mobile technology software company, I collaborate with Developers, Testers, Product Owners, Technical Trainers, Service Delivery and Technical support staff. I am responsible for the delivery of concise and accurate product help information via the company's online help website, 'Totalacademy'.  Totalacademy contains all the information customers need to use Totalmobile's suite of software products 'Mobilise', 'Optimise', 'Analyse' and 'NotifyMe'.  Customers can find instructions in topics, which provide step by step explanations of how to perform administrative or device based tasks. Topics include a mix of instructions, videos and diagrams.
+
+I hold a BA (hons) degree in Information Communication Technologies from the University of Ulster. In addition, I am a Microsoft Certified IT Professional; Technology Specialist; Solutions Associate, Certified XML Master, Certified MadCap Flare Advanced Developer and .
 
 Richard is currently learning how REST APIs work and working towards a certification in Swagger.
 
@@ -21,9 +25,3 @@ Richard is skilled in:
 - Code Respositories & Version Control Sofwtare: GitHub, Microsoft Team Foundation Server
 - API Software: Swagger, Postman
 - Editors: Oxygen, Notepad ++
-
-```xml
-<myxml>
-  <p>hello world</p> 
-</myxml>
-```
