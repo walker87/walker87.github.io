@@ -12,7 +12,7 @@ Currently works for a mobile technology company.  Collaborates with Subject Matt
 
 ## Education and Professional Qualifications
 
-Holds a BA (hons) degree in Information Communication Technologies from the University of Ulster. 
+BA (hons) degree in Information Communication Technologies from the University of Ulster.  Graduated in 2009. 
 
 - Swagger certificattion  2019
 - MadCap Flare Advanced Developer 2018
