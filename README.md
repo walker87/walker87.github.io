@@ -39,5 +39,5 @@ Holds a BA (hons) degree in Information Communication Technologies from the Univ
 Available by request.
 
 
-When Richard isn’t authoring technical documents, he enjoys keeping fit, growing his own vegetables and gardening, travelling, eating sushi and reading Stephen King novels. 
+
 
