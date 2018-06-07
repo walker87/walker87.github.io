@@ -6,9 +6,9 @@
 
 ## Professional Summary
 
-Experienced Technical Author with five plus years working in software, hardware, manufacturing and clinical environments.  Has written everything from how to use mobile technology/cloud/defiberalltion software to clinical applications for FDA submission and warranty documentation.
+Experienced Technical Author with five plus years working in software, hardware, manufacturing and clinical environments.  Has written everything from how to use mobile technology/cloud/defiberalltion software & hardware to clinical applications for FDA submission and warranty documentation.
 
-Currently works for a mobile technology companya and collaborates with Developers, Testers, Product Owners, Trainers, Service Delivery and Helpdesk Support staff. Responsible for the delivery via online/print formats of concise and accurate product help information provided by the company's online help website, 'Totalacademy'. Furthermore, produces API documentation, updates release notes and sends out customer correspondence related to new features, bug fixes and workshops.
+Currently works for a mobile technology company.  Collaborates with Subject Matter Experts and creates/updates existing documentation including installation and upgrade guides, user guides, release notes, SDKs, APIs, online help and sends out customer correspondence related to new features, bug fixes and workshops.
 
 ## Education and Professional Qualifications
 
@@ -32,6 +32,7 @@ Holds a BA (hons) degree in Information Communication Technologies from the Univ
 - Authoring & Publishing Software: Madcap Flare, Adobe Technical Communications Suite, Dita Open Toolkit 
 - Code Respositories & Version Control Sofwtare: GitHub, Microsoft Team Foundation Server
 - API Software: Swagger, Postman
+- Experience working in an agile environment
 
 ## Job History
 
