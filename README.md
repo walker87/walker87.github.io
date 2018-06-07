@@ -1,4 +1,4 @@
-## Draft of future CV.  Not ready for viewing.   
+## Draft future CV.  Not ready for viewing.   
 
 ## Contact Details
 - Email: walker.r87@googlemail.com
