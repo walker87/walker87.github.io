@@ -10,12 +10,12 @@ Technical Author with over five years experience working in software, hardware, 
 
 ## Professional Qualifications and Education
 
-- Swagger certificattion  2019
-- MadCap Flare Advanced Developer 2018
-- XML Master (qualication gained through ........)  2016
-- Microsoft Solutions Associate 2013
-- Microsoft Certified IT Professional 2012
-- Microsoft Technology Specialist 2012
+- Swagger certificattion - *2019*
+- MadCap Flare Advanced Developer - *2018*
+- XML Master (qualication gained through ........) - *2016*
+- Microsoft Solutions Associate - *2013*
+- Microsoft Certified IT Professional - *2012*
+- Microsoft Technology Specialist - *2012*
 
 BA (hons) degree in Information Communication Technologies from the University of Ulster.  Graduated in 2009.
 
