@@ -6,7 +6,7 @@
 
 ## Professional Summary
 
-Experienced Technical Author with five plus years working in software, hardware, manufacturing and clinical environments.  Has written everything from how to use mobile technology/cloud/defiberalltion software & hardware to clinical applications for FDA submission and warranty documentation.
+Experienced Technical Author with five plus years working in software, hardware, manufacturing and clinical environments.  Has written everything from how to use mobile/cloud/defiberalltion software & hardware to clinical applications for FDA submission and warranty documentation.
 
 Currently works for a mobile technology company.  Collaborates with Subject Matter Experts and creates/updates existing documentation including installation and upgrade guides, user guides, release notes, SDKs, APIs, online help and sends out customer correspondence related to new features, bug fixes and workshops.
 
