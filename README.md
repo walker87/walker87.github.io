@@ -1,4 +1,4 @@
-## Draft future CV.  Not ready for viewing.   
+# Technical Author   
 
 ## Contact Details
 - Email: walker.r87@googlemail.com
@@ -6,13 +6,9 @@
 
 ## Professional Summary
 
-Experienced Technical Author with five plus years working in software, hardware, manufacturing and clinical environments.  Has written everything from how to use mobile/cloud/defiberalltion software & hardware to clinical applications for FDA submission and warranty documentation.
+Technical Author with over five years experience working in software, hardware, manufacturing and clinical environments.  Currently works for a mobile technology company in an agile environment.  Collaborates with Subject Matter Experts and creates/updates existing documentation including installation and upgrade guides, user guides, release notes, SDKs, APIs, online help and sends out customer correspondence related to new features, bug fixes and workshops.
 
-Currently works for a mobile technology company.  Collaborates with Subject Matter Experts and creates/updates existing documentation including installation and upgrade guides, user guides, release notes, SDKs, APIs, online help and sends out customer correspondence related to new features, bug fixes and workshops.
-
-## Education and Professional Qualifications
-
-BA (hons) degree in Information Communication Technologies from the University of Ulster.  Graduated in 2009. 
+## Professional Qualifications and Education
 
 - Swagger certificattion  2019
 - MadCap Flare Advanced Developer 2018
@@ -20,6 +16,8 @@ BA (hons) degree in Information Communication Technologies from the University o
 - Microsoft Solutions Associate 2013
 - Microsoft Certified IT Professional 2012
 - Microsoft Technology Specialist 2012
+
+BA (hons) degree in Information Communication Technologies from the University of Ulster.  Graduated in 2009.
 
 ## Professional Memberships
 
@@ -31,8 +29,7 @@ BA (hons) degree in Information Communication Technologies from the University o
 - Markup Languages: HTML, XML, CSS, Dita, Markdown, JSON
 - Authoring & Publishing Software: Madcap Flare, Adobe Technical Communications Suite, Dita Open Toolkit 
 - Code Respositories & Version Control Sofwtare: GitHub, Microsoft Team Foundation Server
-- API Software: Swagger, Postman
-- Experience working in an agile environment
+- API Software: Swagger
 
 ## Job History
 
