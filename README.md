@@ -10,9 +10,9 @@ Technical Author with over five years experience working in software, hardware, 
 
 ## Professional Qualifications and Education
 
-- Swagger certificattion - *2019*
+- Swagger certificattion (qualification gained through Smartbear)- *2019*
 - MadCap Flare Advanced Developer - *2018*
-- XML Master (qualication gained through ........) - *2015*
+- XML Master Certification (qualication gained through Prometric) - *2015*
 - Microsoft Solutions Associate - *2012*
 - Microsoft Certified IT Professional - *2011*
 - Microsoft Technology Specialist - *2011*
@@ -34,12 +34,13 @@ BA (hons) degree in Information Communication Technologies from the University o
 - Authoring & Publishing Software: Madcap Flare, Adobe Technical Communications Suite, Dita Open Toolkit 
 - Code Respositories & Version Control Sofwtare: GitHub, Microsoft Team Foundation Server
 - API Software: Swagger
+- Capture/Graphic Design Tools: Camtasia, Snagit
 
 ## Work History
 
 **Technical Author**<br/>
 *Totalmobile 2017 - Present*<br/>
-
+Gathers, collates, interprets information and communicates at a professional level with key internal and customer stakeholders.  Collaborates with Subject Matter Experts during iterative sprint cycles and creates/updates existing documentation for online and print formats including installation and upgrade guides, user guides, release notes, SDKs, APIs and online help. Sends out correspondence related to new features, bug fixes and workshops to staff, partners and customers.
 
 **Technical Author**<br/>
 *Automated Intelligence 2016 - 2017*<br/>
@@ -56,7 +57,3 @@ Was reponsible for form design, data transcription, version control, adverse eve
 ## References
 
 Available by request.
-
-
-
-
