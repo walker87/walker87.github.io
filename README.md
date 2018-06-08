@@ -12,10 +12,10 @@ Technical Author with over five years experience working in software, hardware, 
 
 - Swagger certificattion - *2019*
 - MadCap Flare Advanced Developer - *2018*
-- XML Master (qualication gained through ........) - *2016*
-- Microsoft Solutions Associate - *2013*
-- Microsoft Certified IT Professional - *2012*
-- Microsoft Technology Specialist - *2012*
+- XML Master (qualication gained through ........) - *2015*
+- Microsoft Solutions Associate - *2012*
+- Microsoft Certified IT Professional - *2011*
+- Microsoft Technology Specialist - *2011*
 
 BA (hons) degree in Information Communication Technologies from the University of Ulster.  Graduated in 2009.
 
@@ -24,6 +24,10 @@ BA (hons) degree in Information Communication Technologies from the University o
 - Microsoft Certified Professional Community member
 - Institute of Scientific and Technical Communicators member
 
+## Professional Training
+
+- SQT Technical Writing Skills Course - *2015*
+
 ## Expertise
 
 - Markup Languages: HTML, XML, CSS, Dita, Markdown, JSON
@@ -31,8 +35,23 @@ BA (hons) degree in Information Communication Technologies from the University o
 - Code Respositories & Version Control Sofwtare: GitHub, Microsoft Team Foundation Server
 - API Software: Swagger
 
-## Job History
+## Work History
 
+**Technical Author**<br/>
+*Totalmobile 2017 - Present*<br/>
+
+
+**Technical Author**<br/>
+*Automated Intelligence 2016 - 2017*<br/>
+Produced highly professional and technical documentation that guided Administrators/End Users in how to install, configure and use the suite of products offered by Automated Intelligence.  Attended planning/briefing meetings with subject matter experts to gather information and presented it in a clear and concise style.
+
+**Technical Author**<br/>
+*Heartsine Technologies 2014 - 2016*<br/>
+Advised and assisted members of the R&D teams in the composition and development of requirement, design, validation and all aspects of the project life cycle.  created and maintained users manuals and marketing documentation for print and online publication.  Produced documentation and asisted with accuracy, traceability and preparation of regulatory submissions.
+
+**Data and IT Specialist**<br/>
+*Biokinetic Europe 2010 - 2014*<br/>
+Was reponsible for form design, data transcription, version control, adverse event reporting, clinical procedure outcomes reporting and archiving of documentation pertaining to clinical trial in accordance with MHRA and FDA applcable standards and regulations.  Further duties included providing first in line IT support for the company network and maintenance of the IT infrastructure.
 
 ## References
 
