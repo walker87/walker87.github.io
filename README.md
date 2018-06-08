@@ -6,7 +6,7 @@
 
 ## Professional Summary
 
-Technical Author with over five years experience working in software, hardware, manufacturing and clinical environments.  Currently works for a mobile technology company in an agile environment.  Collaborates with Subject Matter Experts and creates/updates existing documentation including installation and upgrade guides, user guides, release notes, SDKs, APIs, online help and sends out customer correspondence related to new features, bug fixes and workshops.
+Technical Author with over five years experience working in software, hardware, manufacturing and clinical backgrounds.  Currently works for a mobile technology company in an agile environment.  Collaborates with Subject Matter Experts and creates/updates existing documentation including installation and upgrade guides, user guides, release notes, SDKs, APIs, online help and sends out customer correspondence related to new features, bug fixes and workshops.
 
 ## Professional Qualifications and Education
 
