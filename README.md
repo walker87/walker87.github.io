@@ -6,11 +6,11 @@
 
 ## Professional Summary
 
-Technical Author with over five years' experience working in software, hardware, manufacturing and clinical backgrounds.  Currently works for a mobile technology company in an agile environment.  Collaborates with Subject Matter Experts and creates/updates existing documentation including installation and upgrade guides, user guides, release notes, SDKs, APIs, online help and sends out customer correspondence related to new features, bug fixes and workshops.
+Certified STC Technical Author with nine years' writing experience working in software, hardware, manufacturing and clinical backgrounds.  Currently employed at a mobile technology company specialising in on-premise and SaaS software.  Collaborates with Subject Matter Experts to create/update existing online & print documentation for installation and upgrade guides, user guides, release notes, SDKs, APIs, tutorial elearning videos, webinars and customer correspondence related to new features, bug fixes, workshops etc.
 
 ## Professional Qualifications and Education
 
-- Swagger certification (qualification gained through Smartbear)- *2019*
+- Certified Professional Technical Communicator - *2019* (!not yet achieved!)
 - MadCap Flare Advanced Developer - *2018*
 - XML Master Certification (qualification gained through Prometric) - *2015*
 - Microsoft Solutions Associate - *2012*
@@ -21,8 +21,8 @@ BA (hons) degree in Information Communication Technologies from the University o
 
 ## Professional Memberships
 
+- Society for Technical Communication Professional and Academic member
 - Microsoft Certified Professional Community member
-- Institute of Scientific and Technical Communicators member
 
 ## Professional Training
 
@@ -33,7 +33,6 @@ BA (hons) degree in Information Communication Technologies from the University o
 - Markup Languages: HTML, XML, CSS, Dita, Markdown, JSON
 - Authoring & Publishing Software: Madcap Flare, Adobe Technical Communications Suite, Dita Open Toolkit 
 - Code Repositories & Version Control Software: GitHub, Microsoft Team Foundation Server
-- API Software: Swagger
 - Capture/Graphic Design Tools: Camtasia, Snagit
 
 ## Work History
