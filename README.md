@@ -24,10 +24,6 @@ BA (hons) degree in Information Communication Technologies from the University o
 - Society for Technical Communication Professional and Academic member
 - Microsoft Certified Professional Community member
 
-## Professional Training
-
-- SQT Technical Writing Skills Course - *2015*
-
 ## Expertise
 
 - Markup Languages: HTML, XML, CSS, Dita, Markdown, JSON
