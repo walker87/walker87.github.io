@@ -6,7 +6,7 @@
 
 ## Professional Summary
 
-Certified STC Technical Author with nine years' writing experience working in software, hardware, manufacturing and clinical backgrounds.  Currently employed at a mobile technology company specialising in on-premise and SaaS software.  Collaborates with Subject Matter Experts to create/update existing online & print documentation for installation and upgrade guides, user guides, release notes, SDKs, API documentation, elearning videos and customer correspondence related to new features, bug fixes, workshops etc.
+Certified STC Technical Author with nine years' writing experience working in software, hardware, manufacturing and clinical backgrounds.  Currently employed at a mobile technology company specialising in on-premise and SaaS software.  Collaborates with Subject Matter Experts to create/update existing online & print documentation for installation and upgrade guides, user guides, release notes, SDKs, API documentation, elearning and customer correspondence related to new features, bug fixes, workshops etc.
 
 ## Professional Qualifications and Education
 
@@ -29,6 +29,7 @@ BA (hons) degree in Information Communication Technologies from the University o
 - Markup Languages: HTML, XML, CSS, Dita, Markdown, JSON
 - Authoring & Publishing Software: Madcap Flare, Adobe Technical Communications Suite, Dita Open Toolkit 
 - Code Repositories & Version Control Software: GitHub, Microsoft Team Foundation Server, Madcap Central
+- elearning Software: Articulate 360
 - Capture/Graphic Design Tools: Camtasia, Snagit
 
 ## Work History
