@@ -10,7 +10,7 @@ Certified STC Technical Author with nine years' writing experience working in so
 
 ## Professional Qualifications and Education
 
-- Certified Professional Technical Communicator - *2019* (!not yet achieved!)
+- Certified Professional Technical Communicator - *2019*
 - MadCap Flare Advanced Developer - *2018*
 - XML Master Certification (qualification gained through Prometric) - *2015*
 - Microsoft Solutions Associate - *2012*
