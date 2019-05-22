@@ -50,6 +50,10 @@ Advised and assisted members of the R&D teams in the composition and development
 *Biokinetic Europe 2010 - 2014*<br/>
 Was responsible for form design, data transcription, version control, adverse event reporting, clinical procedure outcomes reporting and archiving of documentation pertaining to clinical trial in accordance with MHRA and FDA applicable standards and regulations.  Further duties included providing first in line IT support for the company network and maintenance of the IT infrastructure.
 
+## Samples of Work
+
+Available by request.
+
 ## References
 
 Available by request.
