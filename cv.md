@@ -8,4 +8,8 @@ I have a BA (hons) degree in Information Communication Technologies.  I am also 
 
 When I'm not authoring technical documents, I enjoy bouldering and keeping fit, growing my own vegetables and gardening, travelling, eating sushi and reading Stephen King novels. 
 
-Please feel free to email me or give me a call to discuss why I would be a good fit for your companymy.  My email address is walker.r87@googlemail.com and mobile number is +447841636265.  I hope to hear from you soon.
+I’d love to speak with you about the role.  Please feel free to email me or give me a call to discuss why I would be a good fit for your companymy.  My email address is walker.r87@googlemail.com and mobile number is +447841636265.  I hope to hear from you soon.
+
+Thanks, and best regards,
+
+Richard Walker
