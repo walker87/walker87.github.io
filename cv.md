@@ -1,23 +1,11 @@
-## Introduction
+I’m writing to apply for the position of Senior Technical Writer in your Belfast office, as advertised on your website careers page. I have nine years Technical Writing experience, and I believe I am ready to move up to a senior position.  When I saw your job opening, I knew it was the perfect opportunity to show you both my technical writing skills/experience and furthermore progess my career with a market leading company that embraces a healthy work-life balance.
 
-Richard is a Technical Author with experience working in software, hardware, manufacturing and clinical environments.  He has written everything from simple Warranty Statements to Clinical Applications for FDA submission.  Richard began working for Totalmobile in August 2017 and makes up the other half of the Technical Communications team alongside the Technical Trainer.  Richard is responsible for the delivery of concise and accurate product help information via Totalmobile’s online help website, Totalacademy.    
+I have experience working in software, hardware, manufacturing, clinical environments and have written everything from simple Warranty Statements to Clinical Applications for FDA submission.  I have worked with developers, testers, trainers, designers, product owners, release managers and of course other technical writers based here and abroad. 
 
-Totalacademy contains all the information customers need to use Mobilise, Optimise, Analyse and NotifyMe software.  Customers can find instructions in topics, which provide step by step explanations of how to perform administrative or device based tasks. Topics include a mix of instructions, videos, diagrams and linked content to explain how things work.
+I have a passion for delivering concise and accurate information for customers, administrators, developers and other stakeholders. In my current company, one of the information resources I am responisble for is Totalacademy https://academy.totalmobile.co.uk/Content/Home.htm.  Totalacademy contains all the information customers need to use Mobilise, Optimise, Analyse and NotifyMe software.  Customers can find instructions in topics, which provide step by step explanations of how to perform administrative or device based tasks. Topics include a mix of instructions, videos, diagrams and linked content to explain how things work.
 
-Richard holds a BA (hons) degree in Information Communication Technologies from the University of Ulster. He is also a Microsoft Certified IT Professional; Technology Specialist; Solutions Associ-ate, Certified XML Master and a Certified MadCap Flare Advanced Developer.
+I have a BA (hons) degree in Information Communication Technologies.  I am also a certified STC Professional Technical Communicator, Certified MadCap Flare Advanced Developer, Certified XML Master (certification gained through Prometric), Microsoft Certified IT Professional, Technology Specialist and Solutions Associate.  Furthermore I am a Microsoft Certified Professional Community member and STC Professional and Academic member.
 
-Richard is currently learning how REST APIs work and working towards a certification in Swagger.
+When I'm not authoring technical documents, I enjoy bouldering and keeping fit, growing my own vegetables and gardening, travelling, eating sushi and reading Stephen King novels. 
 
-Richard is a Microsoft Certified Professional Community member and Institute of Scientific and Technical Communicators member.
-
-When Richard isn’t authoring technical documents, he enjoys keeping fit, growing his own vegetables and gardening, travelling, eating sushi and reading Stephen King novels. 
-
-## Expertise
-
-Richard is skilled in:
-
-- Markup Languages: HTML, XML, CSS, Dita, Markdown, JSON
-- Authoring & Publishing Software: Madcap Flare, Adobe Technical Communications Suite, Dita Open Toolkit 
-- Code Respositories & Version Control Sofwtare: GitHub, Microsoft Team Foundation Server
-- API Software: Swagger, Postman
-- Editors: Oxygen, Notepad ++
+Please feel free to email me or give me a call to discuss why I would be a good fit for your companymy.  My email address is walker.r87@googlemail.com and mobile number is +447841636265.  I hope to hear from you soon.
