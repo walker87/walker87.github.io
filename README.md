@@ -30,6 +30,7 @@ BA (hons) degree in Information Communication Technologies from the University o
 - Authoring & Publishing Software: Madcap Flare, Adobe Technical Communications Suite, Dita Open Toolkit 
 - Code Repositories & Version Control Software: Microsoft Team Foundation Server, Madcap Central, GitHub
 - eLearning Software: Articulate 360
+- API Tools: Postman
 - Capture/Graphic Design Tools: Camtasia, Snagit
 
 ## Work History
