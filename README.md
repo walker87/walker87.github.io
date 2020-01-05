@@ -6,7 +6,7 @@
 
 ## Professional Summary
 
-Certified STC Technical Author with nine years' writing experience working in software, hardware, manufacturing and clinical backgrounds.  Currently employed at a mobile technology company that develops workforce management applications and specialises in on-premise and SaaS software.  Experience includes: collaborating with Subject Matter Experts; writing in an agile environment; creating/updating existing online & print documentation for developers, administrators and end users; SDK documentation; API documentation; eLearning and customer correspondence related to new software features, bug fixes, workshops etc.
+Certified STC Technical Author with ten years' writing experience working in software, hardware, manufacturing and clinical backgrounds.  Currently employed at a mobile technology company that develops workforce management applications and specialises in on-premise and SaaS software.  Experience includes: collaborating with Subject Matter Experts; writing in an agile environment; creating/updating existing online & print documentation for developers, administrators and end users; SDK documentation; API documentation; eLearning and customer correspondence related to new software features, bug fixes, workshops etc.
 
 ## Professional Qualifications and Education
 
