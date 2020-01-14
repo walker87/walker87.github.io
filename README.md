@@ -26,7 +26,7 @@ BA (hons) degree in Information Communication Technologies from the University o
 
 ## Expertise and Experience
 
-- Markup Languages: HTML, XML, CSS, Dita, Markdown, JSON
+- Languages: HTML, XML, CSS, Dita, Markdown, JSON, JavaScript
 - Authoring & Publishing Software: Madcap Flare, Adobe Technical Communications Suite, Dita Open Toolkit 
 - Code Repositories & Version Control Software: Microsoft Team Foundation Server, Madcap Central, GitHub
 - eLearning Software: Articulate 360
