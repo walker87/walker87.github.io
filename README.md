@@ -6,7 +6,7 @@
 
 ## Professional Summary
 
-Certified STC Technical Author with ten years' writing experience working in software, hardware, manufacturing and clinical backgrounds.  Currently employed at a mobile technology company that develops workforce management applications and specialises in on-premise and SaaS software.  Experience includes: collaborating with Subject Matter Experts; writing in an agile environment; creating/updating existing online & print documentation for developers, administrators and end users; SDK documentation; API documentation; eLearning and customer correspondence related to new software features, bug fixes, workshops etc.
+Certified STC Technical Author with over ten years' writing experience working in software, hardware, manufacturing and clinical backgrounds.  Experience includes: collaborating with Subject Matter Experts and other stakeholders; writing in an agile environment; creating/updating existing online & print documentation for developers, administrators and end users; SDK documentation; API documentation; eLearning and customer correspondence related to new software features, bug fixes, workshops etc.
 
 ## Professional Qualifications and Education
 
@@ -27,16 +27,22 @@ BA (hons) degree in Information Communication Technologies from the University o
 ## Expertise and Experience
 
 - Languages: HTML, XML, CSS, Dita, Markdown, JSON, JavaScript
-- Authoring & Publishing Software: Madcap Flare, Adobe Technical Communications Suite, Dita Open Toolkit 
-- Code Repositories & Version Control Software: Microsoft Team Foundation Server, Madcap Central, GitHub
+- Authoring & Publishing Software: Madcap Flare, Confluence, Adobe Technical Communications Suite
+- Code Repositories & Version Control Software: Git, Madcap Central
 - eLearning Software: Articulate 360
-- API Tools: Postman
+- API Tools: Postman, Swagger
+- Ticketing Systems: Jira, Azure DevOps
 - Capture/Graphic Design Tools: Camtasia, Snagit
+- Communication Platforms: Slack, Teams
 
 ## Work History
 
 **Technical Author**<br/>
-*Totalmobile 2017 - Present*<br/>
+*Symphony Talent 2020 - Present*<br/>
+Author release notes, online help, support articles, API documentation etc.  Maintain an internal Knowledge Base in Confluence, to provide up-to-date, comprehensive product documentation and implementation instructions for Customers Success teams and other internal users.  Maintain an external facing online help site for client end users.  Collaborate with Agile development teams (Product Management, Customer Success, Sales, Marketing) on new feature development and UX.
+
+**Technical Author**<br/>
+*Totalmobile 2017 - 2020*<br/>
 Gathers, collates, interprets information and communicates at a professional level with key internal and customer stakeholders.  Collaborates with Subject Matter Experts during iterative sprint cycles and creates/updates existing documentation for online and print formats including installation and upgrade guides, user guides, release notes, SDKs, APIs and online help. Sends out correspondence related to new features, bug fixes and workshops to staff, partners and customers.
 
 **Technical Author**<br/>
