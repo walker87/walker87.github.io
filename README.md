@@ -6,11 +6,11 @@
 
 ## Professional Summary
 
-<p>Certified STC Technical Author with over ten years' writing experience working in software, hardware, manufacturing and clinical backgrounds.<p/>
+<p>Certified STC Technical Author with over ten years' writing experience working in software, hardware, manufacturing and clinical backgrounds.</p>
 
-<p>I enjoy working on the nitty gritty, breaking down complex text into easy to understand content and I'm able to shift focus and tone according to diferent audiences.<p/>
+<p>I enjoy working on the nitty gritty, breaking down complex text into easy to understand content and I'm able to shift focus and tone according to diferent audiences.</p>
 
-<p>Experience includes: collaborating with Subject Matter Experts and other stakeholders; writing in an agile environment; creating/updating existing online & print documentation for developers, administrators and end users; SDK documentation; API documentation (OpenAPI Spec); eLearning and customer correspondence related to new software features, bug fixes, workshops etc.<p/>
+<p>Experience includes: collaborating with Subject Matter Experts and other stakeholders; writing in an agile environment; creating/updating existing online & print documentation for developers, administrators and end users; SDK documentation; API documentation (OpenAPI Spec); eLearning and customer correspondence related to new software features, bug fixes, workshops etc.</p>
 
 ## Professional Qualifications and Education
 
