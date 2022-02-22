@@ -53,13 +53,13 @@ Responsible for:<br/>
 **Senior Technical Writer**<br/>
 *iManage 2021 - 2022*<br/>
 <!---Responsible for:<br/>
-- Getting under the hood of the product and developing an excellent understanding of the applications and the underlying platform.
-- Creating high-quality enterprise documentation—such as user guides, integration guides, technical design guides, API developer guides, installation/configuration guides, and system operations guides—by understanding the product domain, product features, and customer use cases.
-- Collaborating with stakeholders across the organization, for example, Engineering, Product Management, Cloud Services, Professional Services, Support, Training, and Partner Enablement.
--   Curating and mapping content based on the product journey for various personas (Partner, IT Admin, End-User).
-- Understanding and adhering to iManage technical publications standards and processes.
-- Proactively interacting with subject matter experts (for example, R&D team, Product Managers, Support, Marketing, etc.) to ensure that the product documentation is technically accurate, comprehensive, and complete.
--  Continually thinking of innovative ways to come up with deliverables that address problems of customers, partners, support team, and various stakeholders.--->
+Getting under the hood of the product and developing an excellent understanding of the applications and the underlying platform.
+Creating high-quality enterprise documentation—such as user guides, integration guides, technical design guides, API developer guides, installation/configuration guides, and system operations guides—by understanding the product domain, product features, and customer use cases.
+Collaborating with stakeholders across the organization, for example, Engineering, Product Management, Cloud Services, Professional Services, Support, Training, and Partner Enablement.
+Curating and mapping content based on the product journey for various personas (Partner, IT Admin, End-User).
+Understanding and adhering to iManage technical publications standards and processes.
+Proactively interacting with subject matter experts (for example, R&D team, Product Managers, Support, Marketing, etc.) to ensure that the product documentation is technically accurate, comprehensive, and complete.
+Continually thinking of innovative ways to come up with deliverables that address problems of customers, partners, support team, and various stakeholders.--->
 
 **Technical Writer**<br/>
 *Symphony Talent 2020 - 2021*<br/>
