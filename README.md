@@ -1,8 +1,8 @@
 # Technical Author   
 
 ## Contact Details
-Email: <br/>
-Mobile:
+Email: xxxxxxxxx<br/>
+Mobile:xxxxxxxxx
 
 ## Professional Summary
 
